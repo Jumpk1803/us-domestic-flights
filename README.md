@@ -11,6 +11,21 @@ Using flight data from the U.S. Department of Transportation, I built an interac
 - Interactive geo plots using Plotly
 - Dashboard rendering using Dash and Plotly Express
 
+## Data Source
+
+The dataset used in this project is publicly available on Kaggle:
+
+**US Airline Flight Routes and Fares (1993–2024)**  
+[https://www.kaggle.com/datasets/bhavikjikadara/us-airline-flight-routes-and-fares-1993-2024](https://www.kaggle.com/datasets/bhavikjikadara/us-airline-flight-routes-and-fares-1993-2024)
+
+This dataset includes:
+- Origin and destination airports
+- Distance in miles
+- Fare and carrier information
+- Year and quarter
+
+The data was filtered to focus on outbound flights from U.S. airports in 2018.
+
 ## Tools & Libraries
 
 - Python (Pandas, Plotly, Dash)
